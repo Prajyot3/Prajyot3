@@ -4,7 +4,7 @@
 
 ### A Passionate Coder From India
 
-Quite interest to learn technologies related to Full Stack Development & AI/ML
+Quite interest to learn technologies related to Full Stack Development, AI/ML, Data Science & Cyber Security
 
 </div>
 
@@ -14,8 +14,8 @@ Quite interest to learn technologies related to Full Stack Development & AI/ML
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🌱 I'm currently working on skills related to <b>Full Stack Development</b> and <b>AI/ML</b>.</li>
-        <li>💬 Ask me about <b>React, Next.js, Node.js</b>, or <b>Machine Learning</b>.</li>
+        <li>🌱 I'm currently working on skills related to <b>Full Stack Development</b>, <b>AI/ML</b>, <b>Data Science</b>, and <b>Cyber Security</b>.</li>
+        <li>💬 Ask me about <b>React, Next.js, Node.js</b>, <b>Machine Learning</b>, or <b>Cryptography & Network Security</b>.</li>
       </ul>
       <br/>
       <h3>Connect with me:</h3>
@@ -56,13 +56,31 @@ Quite interest to learn technologies related to Full Stack Development & AI/ML
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
   <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
+    <img src="https://cdn.simpleicons.org/flask/40AEF0" alt="flask" width="45" height="45"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
   </a>
   <a href="https://opencv.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kalilinux/57abbd" alt="kali-linux" width="45" height="45"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/wireshark/167ee6" alt="wireshark" width="45" height="45"/>
+  </a>
+  <a href="https://www.openssl.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openssl/openssl-original.svg" alt="openssl" width="45" height="45"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
@@ -87,5 +105,8 @@ Quite interest to learn technologies related to Full Stack Development & AI/ML
   </a>
   <a href="https://w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   </a>
 </p>
